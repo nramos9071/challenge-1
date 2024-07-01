@@ -15,6 +15,8 @@ This Website allows for customers to easily navigate through the benefits of wor
 ## Credits
 
 Nick Ramos - https://github.com/nramos9071
+Kimberly Nelson
+Shawn Perez
 
 ## License
 
